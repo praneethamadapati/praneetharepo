@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="methods" thread-count="4">
+  <test name="Test1">
+    <classes>
+      <class name="testng.ParallelFirstTest"/>
+            <class name="testng.ParallelSecondTest"/>     
+    </classes>
+  </test> <!-- Test -->
+  <test name="Test2">
+    <classes>
+      <class name="testng.ParallelThirdTest"/>  
+    </classes>
+  </test>
+</suite> <!-- Suite -->

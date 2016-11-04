@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+<listeners>
+<listener class-name="automationtesting.MySuiteListener"/>
+</listeners>
+<parameter name = "companyname" value = "netLogicSolutions"/>
+  <test name="Test1">
+  <parameter name = "fname" value = "Praneetha"/>
+  <parameter name = "lname" value = "Madapati"/>
+  
+    <classes>
+      <class name="testng.TestNGParameters"/>
+    </classes>
+  </test> <!-- Test -->
+   <test name="Test2">
+  <parameter name = "fname" value = "Anusha"/>
+  <parameter name = "lname" value = "Madapati"/>
+  <parameter name = "companyname" value = "Microsoft"/> 
+    <classes>
+      <class name="testng.TestNGParameters"/>
+    </classes>
+  </test>
+</suite> <!-- Suite -->

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "firstTestNG">
+<test name = "login">
+<classes>
+<class name = "testng.FirstTest">
+<methods>
+<include name = "secondCase"/>
+</methods>
+</class>
+<class name = "testng.ThirdTest"/>
+<methods>
+<exclude name = "thirdTestSecondCase"/>
+</methods>
+</classes>
+</test>
+<test name = "registration">
+<classes>
+<class name = "testng.SecondTest"/>
+</classes>
+</test>
+</suite>

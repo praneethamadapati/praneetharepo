@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="tests">
+<listeners>
+<listener class-name="automationtesting.MyTestListener"/>
+</listeners>
+  <test name="Test1">
+  <parameter name = "browserType" value = "safari"/>
+    <parameter name = "environment" value = "mac"/>
+    <classes>
+      <class name="testng.CrossBrowserTest"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="Test2">
+  <parameter name = "browserType" value = "chrome"/>
+    <parameter name = "environment" value = "windows"/>
+    <classes>
+      <class name="testng.CrossBrowserTest"/>
+    </classes>
+  </test>
+</suite> <!-- Suite -->
