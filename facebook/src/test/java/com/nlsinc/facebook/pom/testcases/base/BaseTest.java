@@ -30,6 +30,7 @@ public class BaseTest {
 				driver = new ChromeDriver();
 		}
 		driver.manage().window().maximize();
-		driver.manage().timeouts().implicitlyWait(FBConstants.IMPLICIT_TIMEOUT_SEC, TimeUnit.SECONDS);				
+		driver.manage().timeouts().implicitlyWait(FBConstants.IMPLICIT_TIMEOUT_SEC, TimeUnit.SECONDS);	
+		System.out.println("Hello");
 	}
 }
