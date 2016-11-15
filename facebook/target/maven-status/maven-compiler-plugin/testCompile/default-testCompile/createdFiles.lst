@@ -1,0 +1,4 @@
+com\nlsinc\facebook\pom\testcases\base\BaseTest.class
+com\nlsinc\facebook\pom\testcases\LoginTest.class
+com\nlsinc\facebook\pom\testcases\ProfileTest.class
+com\nlsinc\facebook\pom\testcases\ChangePwdTest.class
