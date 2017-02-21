@@ -1,0 +1,6 @@
+[caps]
+platformName = "android"
+deviceName = "my phone"
+browserName = "Chrome"
+udid = "901b9ada"
+newCommandTimeout = "3000"

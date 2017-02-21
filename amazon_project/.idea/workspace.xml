@@ -1,0 +1,1260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/web/features/a_accounts_lists_excel.feature" line="5" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b4a95896-d0ad-4565-99fd-9a267ddd9cb7" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_Amazon_India_Featues__2_.coverage" NAME="Scenario: Checking the Amazon India Featues (2) Coverage Results" MODIFIED="1487291374396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_Help_Option.coverage" NAME="Scenario: Checking the Help Option Coverage Results" MODIFIED="1487618017983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_departments_feature.coverage" NAME="a_departments.feature Coverage Results" MODIFIED="1486448533396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_restaurants_excel_mobile_feature.coverage" NAME="a_restaurants_excel_mobile.feature Coverage Results" MODIFIED="1487626659064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_User_s_Garage_and_it_s_functions.coverage" NAME="Scenario: Checking the User's Garage and it's functions Coverage Results" MODIFIED="1487271741208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_login_mobile_feature.coverage" NAME="a_login_mobile.feature Coverage Results" MODIFIED="1487192201973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Opening_orders_and_validating_mandatory_details_Your_Subscribe___Save_Items__5_.coverage" NAME="Scenario: Opening orders and validating mandatory details-Your Subscribe &amp; Save Items (5) Coverage Results" MODIFIED="1487626196502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_orders_excel_mobile_feature.coverage" NAME="a_orders_excel_mobile.feature Coverage Results" MODIFIED="1487624607418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Opening_deals_for_the_day_without_logging_in_Lightning_Deals.coverage" NAME="Scenario: Opening deals for the day without logging in-Lightning Deals Coverage Results" MODIFIED="1487634500650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_Browsing_History_Complete_Profile__2_.coverage" NAME="Scenario: Checking the Browsing History-Complete Profile (2) Coverage Results" MODIFIED="1487110009758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_users_garage_mobile_feature.coverage" NAME="a_users_garage_mobile.feature Coverage Results" MODIFIED="1487225347081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_users_garage_feature.coverage" NAME="a_users_garage.feature Coverage Results" MODIFIED="1486501051114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Amazon_Log_in_with_Valid_credentials.coverage" NAME="Scenario: Amazon Log in with Valid credentials Coverage Results" MODIFIED="1486692518757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Exploring_Departments_Amazon_Fresh__1_.coverage" NAME="Scenario: Exploring Departments-Amazon Fresh (1) Coverage Results" MODIFIED="1487374587214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Emptying_the_Shopping_Cart__2_.coverage" NAME="Scenario: Emptying the Shopping Cart (2) Coverage Results" MODIFIED="1487114146903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Amazon_Accounts_and_Lists_Wedding_Registry.coverage" NAME="Scenario: Amazon Accounts and Lists-Wedding Registry Coverage Results" MODIFIED="1487098138787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_Amazon_Download_Order_Reports_feature_with_start_date_less_than_end_start__1_.coverage" NAME="Scenario: Checking Amazon Download Order Reports feature with start date less than end start (1) Coverage Results" MODIFIED="1486525943753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Amazon_Accounts_and_Lists__2_.coverage" NAME="Scenario: Amazon Accounts and Lists (2) Coverage Results" MODIFIED="1487285045981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Amazon_Accounts_and_Lists_Kid_s_Birthdays__Baby_Registry__1_.coverage" NAME="Scenario: Amazon Accounts and Lists-Kid's Birthdays, Baby Registry (1) Coverage Results" MODIFIED="1487097604037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Buying_a_product_by_logging_in__4_.coverage" NAME="Scenario: Buying a product by logging in (4) Coverage Results" MODIFIED="1487364447414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_benefits_of_Amazon_Prime_Give_the_Gift_of_Prime__1_.coverage" NAME="Scenario: Checking the benefits of Amazon Prime-Give the Gift of Prime (1) Coverage Results" MODIFIED="1487359357521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_benefits_of_Amazon_Prime__1_.coverage" NAME="Scenario: Checking the benefits of Amazon Prime (1) Coverage Results" MODIFIED="1487357124913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Amazon_Accounts_and_Lists.coverage" NAME="Scenario: Amazon Accounts and Lists Coverage Results" MODIFIED="1487286463638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Opening_deals_for_the_day_Lightning_Deals__5_.coverage" NAME="Scenario: Opening deals for the day-Lightning Deals (5) Coverage Results" MODIFIED="1487637144922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_benefits_of_Amazon_Prime_See_More_Plans__1_.coverage" NAME="Scenario: Checking the benefits of Amazon Prime-See More Plans (1) Coverage Results" MODIFIED="1487359099622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_amazon_india_mobile_feature.coverage" NAME="a_amazon_india_mobile.feature Coverage Results" MODIFIED="1487101570004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_orders_mobile_feature.coverage" NAME="a_orders_mobile.feature Coverage Results" MODIFIED="1487192705389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_amazon_india_feature.coverage" NAME="a_amazon_india.feature Coverage Results" MODIFIED="1486350892848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Emptying_the_Shopping_Cart__3_.coverage" NAME="Scenario: Emptying the Shopping Cart (3) Coverage Results" MODIFIED="1487114157953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_Returns_and_Replacement_function__2_.coverage" NAME="Scenario: Checking the Returns and Replacement function (2) Coverage Results" MODIFIED="1487628282567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Amazon_Accounts_and_Lists_Baby_Registry__3_.coverage" NAME="Scenario: Amazon Accounts and Lists-Baby Registry (3) Coverage Results" MODIFIED="1487288052745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_returns_replacements_feature.coverage" NAME="a_returns_replacements.feature Coverage Results" MODIFIED="1486499854267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Amazon_Accounts_and_Lists__1_.coverage" NAME="Scenario: Amazon Accounts and Lists (1) Coverage Results" MODIFIED="1487285027413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_amazon_prime_excel_feature.coverage" NAME="a_amazon_prime_excel.feature Coverage Results" MODIFIED="1487013489617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Exploring_Departments_Amazon_Fresh.coverage" NAME="Scenario: Exploring Departments-Amazon Fresh Coverage Results" MODIFIED="1487374441918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Amazon_Accounts_and_Lists_Kid_s_Birthdays__Baby_Registry__2_.coverage" NAME="Scenario: Amazon Accounts and Lists-Kid's Birthdays, Baby Registry (2) Coverage Results" MODIFIED="1487097934237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_Amazon_Download_Order_Reports_feature_with_start_date_less_than_end_start__2_.coverage" NAME="Scenario: Checking Amazon Download Order Reports feature with start date less than end start (2) Coverage Results" MODIFIED="1486526062426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Buying_a_product_by_logging_in__5_.coverage" NAME="Scenario: Buying a product by logging in (5) Coverage Results" MODIFIED="1487364613889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_todays_deals_excel_mobile_feature.coverage" NAME="a_todays_deals_excel_mobile.feature Coverage Results" MODIFIED="1487635341376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_store_card_mobile_feature.coverage" NAME="a_store_card_mobile.feature Coverage Results" MODIFIED="1487200593937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_shoppingcart_feature.coverage" NAME="a_shoppingcart.feature Coverage Results" MODIFIED="1486342902429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_sell_feature.coverage" NAME="a_sell.feature Coverage Results" MODIFIED="1486353055442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_benefits_of_Amazon_Prime__2_.coverage" NAME="Scenario: Checking the benefits of Amazon Prime (2) Coverage Results" MODIFIED="1487357886376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_Help_Option_Different_options_offered__2_.coverage" NAME="Scenario: Checking the Help Option-Different options offered (2) Coverage Results" MODIFIED="1487191088001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_login_feature.coverage" NAME="a_login.feature Coverage Results" MODIFIED="1486341532551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Emptying_the_Shopping_Cart.coverage" NAME="Scenario: Emptying the Shopping Cart Coverage Results" MODIFIED="1487369214214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_store_card_excel_feature.coverage" NAME="a_store_card_excel.feature Coverage Results" MODIFIED="1487022109452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_orders_feature.coverage" NAME="a_orders.feature Coverage Results" MODIFIED="1486343540963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_Amazon_Restaurants_Food_Delivery.coverage" NAME="Scenario: Checking the Amazon Restaurants Food Delivery Coverage Results" MODIFIED="1487277623324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_shoppingcart_excel_mobile_feature.coverage" NAME="a_shoppingcart_excel_mobile.feature Coverage Results" MODIFIED="1487629573076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Opening_deals_for_the_day_Lightning_Deals__4_.coverage" NAME="Scenario: Opening deals for the day-Lightning Deals (4) Coverage Results" MODIFIED="1487636929667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_Amazon_Store_Card_features__4_.coverage" NAME="Scenario: Checking the Amazon Store Card features (4) Coverage Results" MODIFIED="1487633066104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Buying_a_product_by_logging_in__2_.coverage" NAME="Scenario: Buying a product by logging in (2) Coverage Results" MODIFIED="1487363107087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_Amazon_Download_Order_Reports_feature_with_start_date_less_than_end_start__3_.coverage" NAME="Scenario: Checking Amazon Download Order Reports feature with start date less than end start (3) Coverage Results" MODIFIED="1486526215263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_Returns_and_Replacement_function.coverage" NAME="Scenario: Checking the Returns and Replacement function Coverage Results" MODIFIED="1487627771278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Amazon_Accounts_and_Lists_Kid_s_Birthdays__Baby_Registry__3_.coverage" NAME="Scenario: Amazon Accounts and Lists-Kid's Birthdays, Baby Registry (3) Coverage Results" MODIFIED="1487097113502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_Help_Option_Wellsfargo.coverage" NAME="Scenario: Checking the Help Option-Wellsfargo Coverage Results" MODIFIED="1487618815939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_Browsing_History_Learn_More.coverage" NAME="Scenario: Checking the Browsing History-Learn More Coverage Results" MODIFIED="1487110351392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Opening_orders_and_validating_mandatory_details_Your_Subscribe___Save_Items.coverage" NAME="Scenario: Opening orders and validating mandatory details-Your Subscribe &amp; Save Items Coverage Results" MODIFIED="1487625502364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_accounts_lists_excel_mobile_feature.coverage" NAME="a_accounts_lists_excel_mobile.feature Coverage Results" MODIFIED="1487284451479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_store_card_feature.coverage" NAME="a_store_card.feature Coverage Results" MODIFIED="1486512986763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Amazon_Accounts_and_Lists_Wedding_Registry__1_.coverage" NAME="Scenario: Amazon Accounts and Lists-Wedding Registry (1) Coverage Results" MODIFIED="1487098856143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_sell_excel_mobile_feature.coverage" NAME="a_sell_excel_mobile.feature Coverage Results" MODIFIED="1487628976538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_restaurants_excel_feature.coverage" NAME="a_restaurants_excel.feature Coverage Results" MODIFIED="1487019447830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Opening_orders_and_validating_mandatory_details_Your_Subscribe___Save_Items__1_.coverage" NAME="Scenario: Opening orders and validating mandatory details-Your Subscribe &amp; Save Items (1) Coverage Results" MODIFIED="1487625868197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_sell_excel_feature.coverage" NAME="a_sell_excel.feature Coverage Results" MODIFIED="1487021491999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_Amazon_Restaurants_Food_Delivery__1_.coverage" NAME="Scenario: Checking the Amazon Restaurants Food Delivery (1) Coverage Results" MODIFIED="1487275288348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_departments_excel_feature.coverage" NAME="a_departments_excel.feature Coverage Results" MODIFIED="1487015837083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_Help_Option_Different_options_offered.coverage" NAME="Scenario: Checking the Help Option-Different options offered Coverage Results" MODIFIED="1487190653452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Amazon_Accounts_and_Lists_Baby_Registry__2_.coverage" NAME="Scenario: Amazon Accounts and Lists-Baby Registry (2) Coverage Results" MODIFIED="1487287913923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Exploring_Departments_Amazon_Fresh__2_.coverage" NAME="Scenario: Exploring Departments-Amazon Fresh (2) Coverage Results" MODIFIED="1487374921309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_todays_deals_feature.coverage" NAME="a_todays_deals.feature Coverage Results" MODIFIED="1486343672401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_accounts_lists_excel_feature.coverage" NAME="a_accounts_lists_excel.feature Coverage Results" MODIFIED="1487009071603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Opening_orders_and_validating_mandatory_details_Your_Subscribe___Save_Items__4_.coverage" NAME="Scenario: Opening orders and validating mandatory details-Your Subscribe &amp; Save Items (4) Coverage Results" MODIFIED="1487626043129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_buying_an_item_mobile_feature.coverage" NAME="a_buying_an_item_mobile.feature Coverage Results" MODIFIED="1487110750531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_users_amazon_excel_mobile_feature.coverage" NAME="a_users_amazon_excel_mobile.feature Coverage Results" MODIFIED="1487638101959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_careers_feature.coverage" NAME="a_careers.feature Coverage Results" MODIFIED="1486421698807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_help_excel_mobile_feature.coverage" NAME="a_help_excel_mobile.feature Coverage Results" MODIFIED="1487618395570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_User_s_Amazon_Account__1_.coverage" NAME="Scenario: Checking User's Amazon Account (1) Coverage Results" MODIFIED="1487638669438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Amazon_Accounts_and_Lists_Gift_Finder.coverage" NAME="Scenario: Amazon Accounts and Lists-Gift Finder Coverage Results" MODIFIED="1487095911966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Amazon_Accounts_and_Lists__3_.coverage" NAME="Scenario: Amazon Accounts and Lists (3) Coverage Results" MODIFIED="1487285188907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Exploring_Departments_Amazon_Fresh__5_.coverage" NAME="Scenario: Exploring Departments-Amazon Fresh (5) Coverage Results" MODIFIED="1487280429837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_returns_replacements_excel_feature.coverage" NAME="a_returns_replacements_excel.feature Coverage Results" MODIFIED="1487024514004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Amazon_Accounts_and_Lists_Wedding_Registry__4_.coverage" NAME="Scenario: Amazon Accounts and Lists-Wedding Registry (4) Coverage Results" MODIFIED="1487100221632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Amazon_Accounts_and_Lists_Baby_Registry__5_.coverage" NAME="Scenario: Amazon Accounts and Lists-Baby Registry (5) Coverage Results" MODIFIED="1487288936972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_download_order_reports_feature.coverage" NAME="a_download_order_reports.feature Coverage Results" MODIFIED="1486525426413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_help_feature.coverage" NAME="a_help.feature Coverage Results" MODIFIED="1486418469035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_today_s_deals_excel_mobile_feature.coverage" NAME="a_today's_deals_excel_mobile.feature Coverage Results" MODIFIED="1487635049527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Amazon_Log_in_with_Valid_credentials__1_.coverage" NAME="Scenario: Amazon Log in with Valid credentials (1) Coverage Results" MODIFIED="1486692612066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_User_s_Garage_and_it_s_functions__1_.coverage" NAME="Scenario: Checking the User's Garage and it's functions (1) Coverage Results" MODIFIED="1487220557991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Amazon_Accounts_and_Lists_Kid_s_Birthdays__Baby_Registry__4_.coverage" NAME="Scenario: Amazon Accounts and Lists-Kid's Birthdays, Baby Registry (4) Coverage Results" MODIFIED="1487097148544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_Amazon_Career_Opportunities__1_.coverage" NAME="Scenario: Checking the Amazon Career Opportunities (1) Coverage Results" MODIFIED="1487371352489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Buying_a_product_by_logging_in__1_.coverage" NAME="Scenario: Buying a product by logging in (1) Coverage Results" MODIFIED="1487368846431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Amazon_Accounts_and_Lists_Wedding_Registry__2_.coverage" NAME="Scenario: Amazon Accounts and Lists-Wedding Registry (2) Coverage Results" MODIFIED="1487099187797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Amazon_Log_in_with_Invalid_credentials.coverage" NAME="Scenario: Amazon Log in with Invalid credentials Coverage Results" MODIFIED="1486327611034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_amazon_prime_feature.coverage" NAME="a_amazon_prime.feature Coverage Results" MODIFIED="1486349822170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_browsing_history_feature.coverage" NAME="a_browsing_history.feature Coverage Results" MODIFIED="1486417283629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Amazon_Accounts_and_Lists_Kid_s_Birthdays__Baby_Registry.coverage" NAME="Scenario: Amazon Accounts and Lists-Kid's Birthdays, Baby Registry Coverage Results" MODIFIED="1487097557370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_accounts_lists_mobile_feature.coverage" NAME="a_accounts_lists_mobile.feature Coverage Results" MODIFIED="1487099398901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_careers_mobile_feature.coverage" NAME="a_careers_mobile.feature Coverage Results" MODIFIED="1487115420928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Opening_Shopping_Cart_and_validating_mandatory_details.coverage" NAME="Scenario: Opening Shopping Cart and validating mandatory details Coverage Results" MODIFIED="1487630434875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Opening_deals_for_the_day_Lightning_Deals__2_.coverage" NAME="Scenario: Opening deals for the day-Lightning Deals (2) Coverage Results" MODIFIED="1487635704895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_shoppingcart_mobile_feature.coverage" NAME="a_shoppingcart_mobile.feature Coverage Results" MODIFIED="1487197579936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_users_amazon_feature.coverage" NAME="a_users_amazon.feature Coverage Results" MODIFIED="1486348116343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Exploring_Departments_Amazon_Fresh__4_.coverage" NAME="Scenario: Exploring Departments-Amazon Fresh (4) Coverage Results" MODIFIED="1487280393675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_shoppingcart_excel_feature.coverage" NAME="a_shoppingcart_excel.feature Coverage Results" MODIFIED="1487021802073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_amazon_prime_excel_mobile_feature.coverage" NAME="a_amazon_prime_excel_mobile.feature Coverage Results" MODIFIED="1487356850464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_benefits_of_Amazon_Prime__4_.coverage" NAME="Scenario: Checking the benefits of Amazon Prime (4) Coverage Results" MODIFIED="1487357262933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_benefits_of_Amazon_Prime_Give_the_Gift_of_Prime.coverage" NAME="Scenario: Checking the benefits of Amazon Prime-Give the Gift of Prime Coverage Results" MODIFIED="1487359224444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_Amazon_Store_Card_features__1_.coverage" NAME="Scenario: Checking the Amazon Store Card features (1) Coverage Results" MODIFIED="1487632313351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_departments_mobile_feature.coverage" NAME="a_departments_mobile.feature Coverage Results" MODIFIED="1487268071857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Amazon_Accounts_and_Lists_Kid_s_Birthdays__Baby_Registry__5_.coverage" NAME="Scenario: Amazon Accounts and Lists-Kid's Birthdays, Baby Registry (5) Coverage Results" MODIFIED="1487097228131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_Amazon_Career_Opportunities.coverage" NAME="Scenario: Checking the Amazon Career Opportunities Coverage Results" MODIFIED="1487370956568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Opening_orders_and_validating_mandatory_details_Open_Orders.coverage" NAME="Scenario: Opening orders and validating mandatory details-Open Orders Coverage Results" MODIFIED="1487194286908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_orders_excel_feature.coverage" NAME="a_orders_excel.feature Coverage Results" MODIFIED="1487019079276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_homepage_feature.coverage" NAME="a_homepage.feature Coverage Results" MODIFIED="1486145216320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_users_garage_excel_feature.coverage" NAME="a_users_garage_excel.feature Coverage Results" MODIFIED="1487024085789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_Amazon_Download_Order_Reports_feature_with_start_date_less_than_end_start.coverage" NAME="Scenario: Checking Amazon Download Order Reports feature with start date less than end start Coverage Results" MODIFIED="1486612431654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Exploring_Departments_Amazon_Fresh__3_.coverage" NAME="Scenario: Exploring Departments-Amazon Fresh (3) Coverage Results" MODIFIED="1487280271290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_benefits_of_Amazon_Prime_See_More_Plans.coverage" NAME="Scenario: Checking the benefits of Amazon Prime-See More Plans Coverage Results" MODIFIED="1487359070877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_Browsing_History_Complete_Profile.coverage" NAME="Scenario: Checking the Browsing History-Complete Profile Coverage Results" MODIFIED="1487109383420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_Help_Option_Different_options_offered__1_.coverage" NAME="Scenario: Checking the Help Option-Different options offered (1) Coverage Results" MODIFIED="1487190889092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Amazon_Accounts_and_Lists__5_.coverage" NAME="Scenario: Amazon Accounts and Lists (5) Coverage Results" MODIFIED="1487286518698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_Amazon_Store_Card_features.coverage" NAME="Scenario: Checking the Amazon Store Card features Coverage Results" MODIFIED="1487635069031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Opening_deals_for_the_day_Lightning_Deals__1_.coverage" NAME="Scenario: Opening deals for the day-Lightning Deals (1) Coverage Results" MODIFIED="1487636948306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_benefits_of_Amazon_Prime__5_.coverage" NAME="Scenario: Checking the benefits of Amazon Prime (5) Coverage Results" MODIFIED="1487354973496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_Amazon_Download_Order_Reports_feature_with_start_date_less_than_end_start__5_.coverage" NAME="Scenario: Checking Amazon Download Order Reports feature with start date less than end start (5) Coverage Results" MODIFIED="1486527286636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_sell_mobile_feature.coverage" NAME="a_sell_mobile.feature Coverage Results" MODIFIED="1487196960257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_Amazon_Restaurants_Food_Delivery__2_.coverage" NAME="Scenario: Checking the Amazon Restaurants Food Delivery (2) Coverage Results" MODIFIED="1487275534611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_Amazon_Store_Card_features__2_.coverage" NAME="Scenario: Checking the Amazon Store Card features (2) Coverage Results" MODIFIED="1487632510445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Amazon_Log_in_with_Valid_credentials__2_.coverage" NAME="Scenario: Amazon Log in with Valid credentials (2) Coverage Results" MODIFIED="1486159841203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_restaurants_mobile_feature.coverage" NAME="a_restaurants_mobile.feature Coverage Results" MODIFIED="1487275091120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Opening_orders_and_validating_mandatory_details_Your_Subscribe___Save_Items__2_.coverage" NAME="Scenario: Opening orders and validating mandatory details-Your Subscribe &amp; Save Items (2) Coverage Results" MODIFIED="1487625887231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_login_excel_feature.coverage" NAME="a_login_excel.feature Coverage Results" MODIFIED="1487018717688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_Amazon_India_Featues.coverage" NAME="Scenario: Checking the Amazon India Featues Coverage Results" MODIFIED="1487291065875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Amazon_Log_in_with_Invalid_credentials__1_.coverage" NAME="Scenario: Amazon Log in with Invalid credentials (1) Coverage Results" MODIFIED="1486327650501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_login_excel_mobile_feature.coverage" NAME="a_login_excel_mobile.feature Coverage Results" MODIFIED="1487619487595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_buying_feature.coverage" NAME="a_buying.feature Coverage Results" MODIFIED="1486509393821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_browsing_history_mobile_feature.coverage" NAME="a_browsing_history_mobile.feature Coverage Results" MODIFIED="1487108873238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_amazon_india_excel_feature.coverage" NAME="a_amazon_india_excel.feature Coverage Results" MODIFIED="1487011683009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Amazon_Accounts_and_Lists__4_.coverage" NAME="Scenario: Amazon Accounts and Lists (4) Coverage Results" MODIFIED="1487285481413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_benefits_of_Amazon_Prime_Give_the_Gift_of_Prime__2_.coverage" NAME="Scenario: Checking the benefits of Amazon Prime-Give the Gift of Prime (2) Coverage Results" MODIFIED="1487359479125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Buying_a_product_by_logging_in.coverage" NAME="Scenario: Buying a product by logging in Coverage Results" MODIFIED="1487364694007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_Browsing_History.coverage" NAME="Scenario: Checking the Browsing History Coverage Results" MODIFIED="1487370291452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_Returns_and_Replacement_function__1_.coverage" NAME="Scenario: Checking the Returns and Replacement function (1) Coverage Results" MODIFIED="1487627922762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_browsing_history_excel_mobile_feature.coverage" NAME="a_browsing_history_excel_mobile.feature Coverage Results" MODIFIED="1487361814551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_User_s_Amazon_Account.coverage" NAME="Scenario: Checking User's Amazon Account Coverage Results" MODIFIED="1487638656904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_Amazon_Download_Order_Reports_feature_with_start_date_less_than_end_start__4_.coverage" NAME="Scenario: Checking Amazon Download Order Reports feature with start date less than end start (4) Coverage Results" MODIFIED="1486527192166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_restaurants_feature.coverage" NAME="a_restaurants.feature Coverage Results" MODIFIED="1486424777199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_help_excel_feature.coverage" NAME="a_help_excel.feature Coverage Results" MODIFIED="1487016237362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Amazon_Accounts_and_Lists_Baby_Registry__1_.coverage" NAME="Scenario: Amazon Accounts and Lists-Baby Registry (1) Coverage Results" MODIFIED="1487289195018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_benefits_of_Amazon_Prime.coverage" NAME="Scenario: Checking the benefits of Amazon Prime Coverage Results" MODIFIED="1487357000475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Opening_orders_and_validating_mandatory_details_Your_Service_Requests__1_.coverage" NAME="Scenario: Opening orders and validating mandatory details-Your Service Requests (1) Coverage Results" MODIFIED="1487625301221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_Amazon_Store_Card_features__3_.coverage" NAME="Scenario: Checking the Amazon Store Card features (3) Coverage Results" MODIFIED="1487632727498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_browsing_history_excel_feature.coverage" NAME="a_browsing_history_excel.feature Coverage Results" MODIFIED="1487013863086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Amazon_Accounts_and_Lists_Wedding_Registry__3_.coverage" NAME="Scenario: Amazon Accounts and Lists-Wedding Registry (3) Coverage Results" MODIFIED="1487099409225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Amazon_Accounts_and_Lists_Baby_Registry__4_.coverage" NAME="Scenario: Amazon Accounts and Lists-Baby Registry (4) Coverage Results" MODIFIED="1487288643695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_buying_excel_feature.coverage" NAME="a_buying_excel.feature Coverage Results" MODIFIED="1487014685772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_accounts_lists_feature.coverage" NAME="a_accounts_lists.feature Coverage Results" MODIFIED="1487010406525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_Amazon_India_Featues__1_.coverage" NAME="Scenario: Checking the Amazon India Featues (1) Coverage Results" MODIFIED="1487291171435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_amazon_prime_mobile_feature.coverage" NAME="a_amazon_prime_mobile.feature Coverage Results" MODIFIED="1487107917455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Amazon_Sell.coverage" NAME="Scenario: Amazon Sell Coverage Results" MODIFIED="1487197148862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Opening_orders_and_validating_mandatory_details_Your_Subscribe___Save_Items__3_.coverage" NAME="Scenario: Opening orders and validating mandatory details-Your Subscribe &amp; Save Items (3) Coverage Results" MODIFIED="1487625993944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Opening_orders_and_validating_mandatory_details_Your_Service_Requests.coverage" NAME="Scenario: Opening orders and validating mandatory details-Your Service Requests Coverage Results" MODIFIED="1487625085432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_User_s_Amazon_Account__2_.coverage" NAME="Scenario: Checking User's Amazon Account (2) Coverage Results" MODIFIED="1487638882408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_Help_Option_Search_for_Wellsfargo__1_.coverage" NAME="Scenario: Checking the Help Option-Search for Wellsfargo (1) Coverage Results" MODIFIED="1487190509677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_Amazon_Download_Order_Reports_feature_with_start_date_more_than_end_start.coverage" NAME="Scenario: Checking Amazon Download Order Reports feature with start date more than end start Coverage Results" MODIFIED="1486527444452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Amazon_Accounts_and_Lists_Gift_Finder__1_.coverage" NAME="Scenario: Amazon Accounts and Lists-Gift Finder (1) Coverage Results" MODIFIED="1487095996927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Opening_orders_and_validating_mandatory_details_Recent_Orders.coverage" NAME="Scenario: Opening orders and validating mandatory details-Recent Orders Coverage Results" MODIFIED="1487194069358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_User_s_Garage_and_it_s_functions__2_.coverage" NAME="Scenario: Checking the User's Garage and it's functions (2) Coverage Results" MODIFIED="1487220579085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_download_order_reports_excel_feature.coverage" NAME="a_download_order_reports_excel.feature Coverage Results" MODIFIED="1487016060537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Opening_orders_and_validating_mandatory_details_Digital_Orders.coverage" NAME="Scenario: Opening orders and validating mandatory details-Digital Orders Coverage Results" MODIFIED="1487194481408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Opening_deals_for_the_day_Lightning_Deals__3_.coverage" NAME="Scenario: Opening deals for the day-Lightning Deals (3) Coverage Results" MODIFIED="1487636606411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_users_amazon_mobile_feature.coverage" NAME="a_users_amazon_mobile.feature Coverage Results" MODIFIED="1487201984772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_careers_excel_feature.coverage" NAME="a_careers_excel.feature Coverage Results" MODIFIED="1487015027567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_help_mobile_feature.coverage" NAME="a_help_mobile.feature Coverage Results" MODIFIED="1487190208297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_todays_deals_excel_feature.coverage" NAME="a_todays_deals_excel.feature Coverage Results" MODIFIED="1487023055556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_Browsing_History_Complete_Profile__1_.coverage" NAME="Scenario: Checking the Browsing History-Complete Profile (1) Coverage Results" MODIFIED="1487109412697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_Browsing_History__1_.coverage" NAME="Scenario: Checking the Browsing History (1) Coverage Results" MODIFIED="1487370578442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_Help_Option_Search_for_Wellsfargo.coverage" NAME="Scenario: Checking the Help Option-Search for Wellsfargo Coverage Results" MODIFIED="1487190460988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Amazon_Accounts_and_Lists_Baby_Registry.coverage" NAME="Scenario: Amazon Accounts and Lists-Baby Registry Coverage Results" MODIFIED="1487289050286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Buying_a_product_by_logging_in__3_.coverage" NAME="Scenario: Buying a product by logging in (3) Coverage Results" MODIFIED="1487363644426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Exploring_Departments_Kindle.coverage" NAME="Scenario: Exploring Departments-Kindle Coverage Results" MODIFIED="1487189106624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Checking_the_benefits_of_Amazon_Prime__3_.coverage" NAME="Scenario: Checking the benefits of Amazon Prime (3) Coverage Results" MODIFIED="1487357965783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_todays_deals_mobile_feature.coverage" NAME="a_todays_deals_mobile.feature Coverage Results" MODIFIED="1487228589553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Opening_deals_for_the_day_Lightning_Deals.coverage" NAME="Scenario: Opening deals for the day-Lightning Deals Coverage Results" MODIFIED="1487636388728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_users_amazon_excel_feature.coverage" NAME="a_users_amazon_excel.feature Coverage Results" MODIFIED="1487023733305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@Scenario__Emptying_the_Shopping_Cart__1_.coverage" NAME="Scenario: Emptying the Shopping Cart (1) Coverage Results" MODIFIED="1487369355122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mweb" MODULE_NAME="amazon_project" />
+    <SUITE FILE_PATH="coverage/amazon_project@a_returns_replacements_excel_feature__1_.coverage" NAME="a_returns_replacements_excel.feature (1) Coverage Results" MODIFIED="1487026689611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web" MODULE_NAME="amazon_project" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="a_departments_excel_mobile.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mweb/features/a_departments_excel_mobile.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="13" column="46" lean-forward="false" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="a_orders_excel_mobile.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mweb/features/a_orders_excel_mobile.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="36" column="40" lean-forward="true" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="a_todays_deals_excel_mobile.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mweb/features/a_todays_deals_excel_mobile.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="7" selection-end-column="63" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="a_users_garage_excel_mobile.feature" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mweb/features/a_users_garage_excel_mobile.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="63" lean-forward="false" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="my_steps.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mweb/features/step_definitions/my_steps.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="176" column="37" lean-forward="true" selection-start-line="176" selection-start-column="37" selection-end-line="176" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="excel_steps.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mweb/features/step_definitions/excel_steps.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="111">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>before</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/features/a_sell_excel.feature" />
+        <option value="$PROJECT_DIR$/features/a_shoppingcart_excel.feature" />
+        <option value="$PROJECT_DIR$/features/a_store_card_excel.feature" />
+        <option value="$PROJECT_DIR$/features/a_todays_deals_excel.feature" />
+        <option value="$PROJECT_DIR$/features/a_users_amazon_excel.feature" />
+        <option value="$PROJECT_DIR$/features/a_users_garage_excel.feature" />
+        <option value="$PROJECT_DIR$/features/step_definitions/my_steps.rb" />
+        <option value="$PROJECT_DIR$/features/a_returns_replacements_excel.feature" />
+        <option value="$PROJECT_DIR$/mweb/features/manifest.json" />
+        <option value="$PROJECT_DIR$/mweb/features/support/appium.txt" />
+        <option value="$PROJECT_DIR$/mweb/features/a_amazon_india_mobile.feature" />
+        <option value="$PROJECT_DIR$/mweb/features/a_accounts_lists_mobile.feature" />
+        <option value="$PROJECT_DIR$/mweb/features/a_amazon_prime_mobile.feature" />
+        <option value="$PROJECT_DIR$/mweb/features/a_browsing_history_mobile.feature" />
+        <option value="$PROJECT_DIR$/mweb/features/a_buying_an_item_mobile.feature" />
+        <option value="$PROJECT_DIR$/mweb/features/a_careers_mobile.feature" />
+        <option value="$PROJECT_DIR$/web/features/a_departments.feature" />
+        <option value="$PROJECT_DIR$/mweb/features/a_help_mobile.feature" />
+        <option value="$PROJECT_DIR$/mweb/features/a_login_mobile.feature" />
+        <option value="$PROJECT_DIR$/mweb/features/a_orders_mobile.feature" />
+        <option value="$PROJECT_DIR$/mweb/features/a_sell_mobile.feature" />
+        <option value="$PROJECT_DIR$/mweb/features/a_shoppingcart_mobile.feature" />
+        <option value="$PROJECT_DIR$/mweb/features/a_store_card_mobile.feature" />
+        <option value="$PROJECT_DIR$/mweb/features/a_users_amazon_mobile.feature" />
+        <option value="$PROJECT_DIR$/mweb/features/a_returns_replacements_mobile.feature" />
+        <option value="$PROJECT_DIR$/mweb/features/a_users_garage_mobile.feature" />
+        <option value="$PROJECT_DIR$/mweb/features/a_todays_deals_mobile.feature" />
+        <option value="$PROJECT_DIR$/mweb/features/a_restaurants_mobile.feature" />
+        <option value="$PROJECT_DIR$/mweb/features/a_departments_mobile.feature" />
+        <option value="$PROJECT_DIR$/mweb/features/step_definitions/predefined_steps_mweb.rb" />
+        <option value="$PROJECT_DIR$/mweb/features/step_definitions/excel_steps.rb" />
+        <option value="$PROJECT_DIR$/mweb/features/a_accounts_lists_excel_mobile.feature" />
+        <option value="$PROJECT_DIR$/mweb/features/a_departments_excel_mobile.feature" />
+        <option value="$PROJECT_DIR$/mweb/features/a_amazon_india_excel_mobile.feature" />
+        <option value="$PROJECT_DIR$/mweb/features/a_amazon_prime_excel_mobile.feature" />
+        <option value="$PROJECT_DIR$/mweb/features/a_browsing_history_excel_mobile.feature" />
+        <option value="$PROJECT_DIR$/mweb/features/a_buying_an_item_excel_mobile.feature" />
+        <option value="$PROJECT_DIR$/mweb/features/a_careers_excel_mobile.feature" />
+        <option value="$PROJECT_DIR$/mweb/features/a_help_excel_mobile.feature" />
+        <option value="$PROJECT_DIR$/mweb/features/a_login_excel_mobile.feature" />
+        <option value="$PROJECT_DIR$/mweb/features/a_orders_excel_mobile.feature" />
+        <option value="$PROJECT_DIR$/mweb/features/a_restaurants_excel_mobile.feature" />
+        <option value="$PROJECT_DIR$/mweb/features/a_returns_replacements_excel_mobile.feature" />
+        <option value="$PROJECT_DIR$/mweb/features/a_sell_excel_mobile.feature" />
+        <option value="$PROJECT_DIR$/mweb/features/a_shoppingcart_excel_mobile.feature" />
+        <option value="$PROJECT_DIR$/mweb/features/a_store_card_excel_mobile.feature" />
+        <option value="$PROJECT_DIR$/mweb/features/a_today's_deals_excel_mobile.feature" />
+        <option value="$PROJECT_DIR$/mweb/features/step_definitions/my_steps.rb" />
+        <option value="$PROJECT_DIR$/mweb/features/a_todays_deals_excel_mobile.feature" />
+        <option value="$PROJECT_DIR$/mweb/features/a_users_amazon_excel_mobile.feature" />
+        <option value="$PROJECT_DIR$/mweb/features/a_users_garage_excel_mobile.feature" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="2" />
+    <option name="width" value="1370" />
+    <option name="height" value="742" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="amazon_project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="amazon_project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="amazon_project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="amazon_project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="features" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="amazon_project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="amazon_project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="features" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="step_definitions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="amazon_project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="amazon_project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="features" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="amazon_project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="amazon_project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="features" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="step_definitions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="$USER_HOME$/awetest/node/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Users\Praneetha\awetest\node\node.exe" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Praneetha\Desktop\amazon_project\web" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber.Scenario: Checking User's Amazon Account (2)">
+    <configuration default="false" name="Scenario: Opening deals for the day-Lightning Deals (5)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="amazon_project" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/mweb" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/mweb/features/a_todays_deals_excel_mobile.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Opening deals for the day\-Lightning Deals$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
+    <configuration default="false" name="a_users_amazon_excel_mobile.feature" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="amazon_project" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/mweb" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/mweb/features/a_users_amazon_excel_mobile.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Scenario: Checking User's Amazon Account" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="amazon_project" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/mweb" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/mweb/features/a_users_amazon_excel_mobile.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Checking User\'s Amazon Account$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Scenario: Checking User's Amazon Account (1)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="amazon_project" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/mweb" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/mweb/features/a_users_amazon_excel_mobile.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Checking User\'s Amazon Account$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Scenario: Checking User's Amazon Account (2)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="amazon_project" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/mweb" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/mweb/features/a_users_amazon_excel_mobile.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Checking User\'s Amazon Account$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
+      <module name="" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Cucumber.Scenario: Opening deals for the day-Lightning Deals (5)" />
+      <item index="1" class="java.lang.String" itemvalue="Cucumber.a_users_amazon_excel_mobile.feature" />
+      <item index="2" class="java.lang.String" itemvalue="Cucumber.Scenario: Checking User's Amazon Account" />
+      <item index="3" class="java.lang.String" itemvalue="Cucumber.Scenario: Checking User's Amazon Account (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Cucumber.Scenario: Checking User's Amazon Account (2)" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Cucumber.Scenario: Checking User's Amazon Account (2)" />
+        <item index="1" class="java.lang.String" itemvalue="Cucumber.Scenario: Checking User's Amazon Account (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Cucumber.Scenario: Checking User's Amazon Account" />
+        <item index="3" class="java.lang.String" itemvalue="Cucumber.a_users_amazon_excel_mobile.feature" />
+        <item index="4" class="java.lang.String" itemvalue="Cucumber.Scenario: Opening deals for the day-Lightning Deals (5)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4a95896-d0ad-4565-99fd-9a267ddd9cb7" name="Default" comment="" />
+      <created>1486059385907</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1486059385907</updated>
+      <workItem from="1486059387457" duration="16336000" />
+      <workItem from="1486144374033" duration="16911000" />
+      <workItem from="1486327510692" duration="13998000" />
+      <workItem from="1486404501906" duration="22836000" />
+      <workItem from="1486445248687" duration="76000" />
+      <workItem from="1486445700586" duration="314000" />
+      <workItem from="1486446219280" duration="6671000" />
+      <workItem from="1486489903110" duration="41423000" />
+      <workItem from="1486588213293" duration="20854000" />
+      <workItem from="1486666005908" duration="7112000" />
+      <workItem from="1486677139621" duration="13822000" />
+      <workItem from="1486700421673" duration="1262000" />
+      <workItem from="1486748818766" duration="39667000" />
+      <workItem from="1487095831590" duration="1429000" />
+      <workItem from="1487097515109" duration="6176000" />
+      <workItem from="1487106504511" duration="623000" />
+      <workItem from="1487107154262" duration="24000" />
+      <workItem from="1487107658403" duration="10980000" />
+      <workItem from="1487188608541" duration="15195000" />
+      <workItem from="1487214215848" duration="10675000" />
+      <workItem from="1487267955748" duration="2992000" />
+      <workItem from="1487271284010" duration="2215000" />
+      <workItem from="1487274390711" duration="1779000" />
+      <workItem from="1487276558450" duration="101000" />
+      <workItem from="1487277329622" duration="56000" />
+      <workItem from="1487277465169" duration="15412000" />
+      <workItem from="1487354348066" duration="18024000" />
+      <workItem from="1487536581738" duration="2187000" />
+      <workItem from="1487613316176" duration="644000" />
+      <workItem from="1487614014704" duration="213000" />
+      <workItem from="1487614432617" duration="18940000" />
+      <workItem from="1487634443642" duration="162000" />
+      <workItem from="1487634659173" duration="91000" />
+      <workItem from="1487634986934" duration="4108000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Scenario__Checking_User's_Amazon_Account - 2017.02.20 at 16h 57m 40s.xml">
+      <configuration name="Scenario: Checking User's Amazon Account" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Checking_User's_Amazon_Account_(1) - 2017.02.20 at 17h 00m 19s.xml">
+      <configuration name="Scenario: Checking User's Amazon Account (1)" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Checking_User's_Amazon_Account_(2) - 2017.02.20 at 17h 04m 16s.xml">
+      <configuration name="Scenario: Checking User's Amazon Account (2)" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Opening_deals_for_the_day-Lightning_Deals - 2017.02.20 at 16h 21m 52s.xml">
+      <configuration name="Scenario: Opening deals for the day-Lightning Deals" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Opening_deals_for_the_day-Lightning_Deals_(1) - 2017.02.20 at 16h 31m 27s.xml">
+      <configuration name="Scenario: Opening deals for the day-Lightning Deals (1)" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Opening_deals_for_the_day-Lightning_Deals_(2) - 2017.02.20 at 16h 11m 32s.xml">
+      <configuration name="Scenario: Opening deals for the day-Lightning Deals (2)" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Opening_deals_for_the_day-Lightning_Deals_(3) - 2017.02.20 at 16h 25m 17s.xml">
+      <configuration name="Scenario: Opening deals for the day-Lightning Deals (3)" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Opening_deals_for_the_day-Lightning_Deals_(4) - 2017.02.20 at 16h 28m 52s.xml">
+      <configuration name="Scenario: Opening deals for the day-Lightning Deals (4)" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Opening_deals_for_the_day-Lightning_Deals_(5) - 2017.02.20 at 16h 36m 07s.xml">
+      <configuration name="Scenario: Opening deals for the day-Lightning Deals (5)" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="a_users_amazon_excel_mobile_feature - 2017.02.20 at 16h 50m 28s.xml">
+      <configuration name="a_users_amazon_excel_mobile.feature" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="313308000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="2" width="1370" height="742" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963072" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4513678" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287879" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mweb/features/a_browsing_history_mobile.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="23" column="4" lean-forward="false" selection-start-line="23" selection-start-column="4" selection-end-line="25" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mweb/features/a_todays_deals_mobile.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="25" column="55" lean-forward="false" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/features/a_accounts_lists_excel.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="6" column="46" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mweb/features/a_users_garage_mobile.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mweb/features/a_accounts_lists_mobile.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="33" column="58" lean-forward="true" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/features/a_amazon_india_excel.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/features/a_amazon_prime_excel.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mweb/features/step_definitions/predefined_steps_mweb.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/features/a_browsing_history_excel.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="38" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/features/a_buying_excel.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/features/a_careers_excel.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="57" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/features/a_departments_excel.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mweb/features/a_departments_mobile.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-91">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/features/a_help_excel.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="30" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="46" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mweb/features/a_accounts_lists_excel_mobile.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="63" lean-forward="false" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mweb/features/a_amazon_prime_excel_mobile.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="63" lean-forward="false" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mweb/features/a_browsing_history_excel_mobile.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="63" lean-forward="false" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mweb/features/a_careers_excel_mobile.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="63" lean-forward="false" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/features/a_login_excel.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mweb/features/a_help_excel_mobile.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/features/a_orders_excel.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="37" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mweb/features/a_login_mobile.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-109">
+          <caret line="13" column="73" lean-forward="true" selection-start-line="13" selection-start-column="73" selection-end-line="13" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/features/a_restaurants_excel.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mweb/features/a_login_excel_mobile.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="28" column="4" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="33" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mweb/features/a_amazon_india_excel_mobile.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="17" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mweb/features/a_restaurants_excel_mobile.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="33" column="29" lean-forward="false" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/features/a_returns_replacements_excel.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="37" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="48" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mweb/features/a_returns_replacements_mobile.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="32" column="57" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mweb/features/a_returns_replacements_excel_mobile.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="31" column="35" lean-forward="false" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mweb/features/a_restaurants_mobile.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-119">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/features/a_sell_excel.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mweb/features/a_sell_excel_mobile.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="31" column="98" lean-forward="false" selection-start-line="31" selection-start-column="98" selection-end-line="31" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/features/a_shoppingcart_excel.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mweb/features/a_buying_an_item_mobile.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/features/a_store_card_excel.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="50" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mweb/features/a_shoppingcart_excel_mobile.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="20" column="42" lean-forward="true" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mweb/features/a_buying_an_item_excel_mobile.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="45" column="4" lean-forward="true" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mweb/features/a_store_card_mobile.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="51" column="52" lean-forward="true" selection-start-line="51" selection-start-column="52" selection-end-line="51" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/features/a_todays_deals_excel.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/awetest/Vendor/ruby-2.0.0-p451/lib/ruby/2.0.0/rubygems.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="257" column="11" lean-forward="false" selection-start-line="257" selection-start-column="11" selection-end-line="257" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/awetest/Vendor/ruby-2.0.0-p451/bin/cucumber">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="14" lean-forward="false" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mweb/features/a_departments_excel_mobile.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="13" column="46" lean-forward="false" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mweb/features/a_store_card_excel_mobile.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="24" column="4" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="25" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/features/a_users_amazon_excel.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mweb/features/step_definitions/excel_steps.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mweb/features/step_definitions/my_steps.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="176" column="37" lean-forward="true" selection-start-line="176" selection-start-column="37" selection-end-line="176" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mweb/features/a_orders_excel_mobile.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="36" column="40" lean-forward="true" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mweb/features/a_users_amazon_excel_mobile.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/features/a_users_garage_excel.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mweb/features/a_todays_deals_excel_mobile.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="7" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mweb/features/a_users_garage_excel_mobile.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="63" lean-forward="false" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
